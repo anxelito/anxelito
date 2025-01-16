@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate computer science and computer engineering student from Spain</h3>
+<h3 align="center">Computer Science and Computer Engineering student from Spain</h3>
 
 ## 🌐 Connect with me:
 <p align="left">
