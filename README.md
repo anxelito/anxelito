@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate computer science and computer engineering student from Spain</h3>
 
-- 🔭 I’m currently working on [my website](https://anxelito.com)
-
 ## 🌐 Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/angel-mc" target="blank">
