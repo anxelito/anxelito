@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Estudiante de **Doble Grado en Ingeniería Informática y de Computadores**.
-- 🛠️ Me apasiona el desarrollo de bajo nivel, los sistemas operativos y la arquitectura de hardware.
-- 🌱 Actualmente profundizando en **[Escribe algo que estés aprendiendo, ej: Sistemas Distribuidos o Rust]**.
-- 💬 Pregúntame sobre **C, Java, Linux** o cualquier cosa relacionada con el hardware.
+- Estudiante de **Doble Grado en Ingeniería Informática y de Computadores**.
+- Me apasiona el desarrollo de bajo nivel, los sistemas operativos y la arquitectura de hardware.
+- Actualmente aprendiendo más sobre **Sistemas Operativos y Arquitectura**.
+- Pregúntame sobre **C, Java, Linux** o cualquier cosa de hardware.
 
 ---
 
@@ -19,17 +19,18 @@
 
 **Lenguajes y Base de Datos**
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 **Sistemas y Entorno**
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -44,10 +45,10 @@
 
 ### 🌐 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/angel-mc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="angel-mc" /></a>
-<a href="mailto:tu-email@ejemplo.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anxelito/anxelito/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<a href="https://www.linkedin.com/in/angel-mc" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tu-email@correo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
