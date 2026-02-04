@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">Computer Science & Computer Engineering Student from Spain 🇪🇸</h3>
+<h1 align="center">Hola 👋, soy Ángel</h1>
+<h3 align="center">Estudiante de Ingeniería Informática e Ingeniería de Computadores de España 🇪🇸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Systems+%26+Low-Level+Enthusiast;Hardware+Architecture+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Apasionado+de+Sistemas+de+Bajo+Nivel;Explorador+de+Arquitectura+Hardware;Colaborador+Open+Source" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mí
 
-- 🎓 **Double Degree** student in **Computer Science & Computer Engineering**
-- 💻 Passionate about **low-level development**, **operating systems**, and **hardware architecture**
-- 🔧 Currently deepening my knowledge in **systems programming** and **performance optimization**
-- 🌱 Learning advanced concepts in **distributed systems**, **compilers**, and **FPGA design**
-- 💬 Ask me about **C, Java, Linux**, hardware, or anything systems-related
-- 📫 Reach me at **anx@anxelito.com**
+- 🎓 Estudiante de **Doble Grado en Ingeniería Informática e Ingeniería de Computadores**
+- 💻 Apasionado del **desarrollo de bajo nivel**, **sistemas operativos** y **arquitectura de hardware**
+- 🔧 Actualmente profundizando en **programación de sistemas** y **optimización de rendimiento**
+- 🌱 Aprendiendo conceptos avanzados de **sistemas distribuidos**, **compiladores** y **diseño FPGA**
+- 💬 Pregúntame sobre **C, Java, Linux**, hardware o cualquier tema de sistemas
+- 📫 Contáctame en **anx@anxelito.com**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologías y Herramientas
 
-#### **Programming Languages**
+#### **Lenguajes de Programación**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### **Databases**
+#### **Bases de Datos**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### **Systems & Tools**
+#### **Sistemas y Herramientas**
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
-#### **Web & Frameworks**
+#### **Desarrollo Web y Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-#### **Hardware & Architecture**
+#### **Hardware y Arquitectura**
 <p align="left">
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white" />
@@ -73,42 +73,36 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxelito&theme=aura_dark" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxelito&theme=aura_dark" alt="Detalles del Perfil" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxelito&theme=aura_dark" alt="GitHub Stats" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxelito&theme=aura_dark" alt="Top Languages" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxelito&theme=aura_dark" alt="Estadísticas de GitHub" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxelito&theme=aura_dark" alt="Lenguajes Más Usados" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anxelito&theme=aura-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anxelito&theme=aura-dark&hide_border=true&locale=es" alt="Racha de GitHub" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?anxelito=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📚 Current Focus
+### 📚 Enfoque Actual
 ```text
-🔹 Operating Systems Internals
-🔹 Compiler Design & Optimization
-🔹 Computer Architecture (RISC-V, ARM)
-🔹 Network Programming & Protocols
-🔹 Concurrent & Parallel Systems
-🔹 FPGA Development
+🔹 Internals de Sistemas Operativos
+🔹 Diseño y Optimización de Compiladores
+🔹 Arquitectura de Computadores (RISC-V, ARM)
+🔹 Programación de Redes y Protocolos
+🔹 Sistemas Concurrentes y Paralelos
+🔹 Desarrollo en FPGA
 ```
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Conecta Conmigo
 
 <p align="left">
 <a href="https://linkedin.com/in/angel-mc" target="_blank">
@@ -125,6 +119,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anxelito&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anxelito&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas al Perfil" />
 </p>
-
