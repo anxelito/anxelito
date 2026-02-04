@@ -83,18 +83,6 @@
 
 ---
 
-### Enfoque Actual
-```text
-Internals de Sistemas Operativos
-Diseño y Optimización de Compiladores
-Arquitectura de Computadores (RISC-V, ARM)
-Programación de Redes y Protocolos
-Sistemas Concurrentes y Paralelos
-Desarrollo en FPGA
-```
-
----
-
 ### Conecta Conmigo
 
 <p align="left">
@@ -114,4 +102,5 @@ Desarrollo en FPGA
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anxelito&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas al Perfil" />
 </p>
+
 
