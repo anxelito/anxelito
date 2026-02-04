@@ -34,9 +34,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxelito&theme=aura_dark" alt="GitHub Stats" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxelito&theme=aura_dark" alt="GitHub Stats" width="400" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxelito&theme=aura_dark" alt="Top Languages" width="300" />
 </p>
 
 ---
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
 
 
 
