@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Ángel</h1>
-<h3 align="center">Estudiante de Ingeniería Informática e Ingeniería de Computadores de España 🇪🇸</h3>
+<h1 align="center">Hola, soy Ángel</h1>
+<h3 align="center">Estudiante de Ingeniería Informática e Ingeniería de Computadores</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Apasionado+de+Sistemas+de+Bajo+Nivel;Explorador+de+Arquitectura+Hardware;Colaborador+Open+Source" alt="Typing SVG" />
@@ -7,20 +7,20 @@
 
 ---
 
-### 🚀 Sobre Mí
+### Sobre Mí
 
-- 🎓 Estudiante de **Doble Grado en Ingeniería Informática e Ingeniería de Computadores**
-- 💻 Apasionado del **desarrollo de bajo nivel**, **sistemas operativos** y **arquitectura de hardware**
-- 🔧 Actualmente profundizando en **programación de sistemas** y **optimización de rendimiento**
-- 🌱 Aprendiendo conceptos avanzados de **sistemas distribuidos**, **compiladores** y **diseño FPGA**
-- 💬 Pregúntame sobre **C, Java, Linux**, hardware o cualquier tema de sistemas
-- 📫 Contáctame en **anx@anxelito.com**
+- Estudiante de **Doble Grado en Ingeniería Informática e Ingeniería de Computadores**
+- Apasionado del **desarrollo de bajo nivel**, **sistemas operativos** y **arquitectura de hardware**
+- Actualmente profundizando en **programación de sistemas** y **optimización de rendimiento**
+- Aprendiendo conceptos avanzados de **sistemas distribuidos**, **compiladores** y **diseño FPGA**
+- Pregúntame sobre **C, Java, Linux**, hardware o cualquier tema de sistemas
+- Contáctame en **anx@anxelito.com**
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-#### **Lenguajes de Programación**
+#### Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### **Bases de Datos**
+#### Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### **Sistemas y Herramientas**
+#### Sistemas y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
-#### **Desarrollo Web y Frameworks**
+#### Desarrollo Web y Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-#### **Hardware y Arquitectura**
+#### Hardware y Arquitectura
 <p align="left">
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white" />
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxelito&theme=aura_dark" alt="Detalles del Perfil" />
@@ -90,19 +90,19 @@
 
 ---
 
-### 📚 Enfoque Actual
+### Enfoque Actual
 ```text
-🔹 Internals de Sistemas Operativos
-🔹 Diseño y Optimización de Compiladores
-🔹 Arquitectura de Computadores (RISC-V, ARM)
-🔹 Programación de Redes y Protocolos
-🔹 Sistemas Concurrentes y Paralelos
-🔹 Desarrollo en FPGA
+Internals de Sistemas Operativos
+Diseño y Optimización de Compiladores
+Arquitectura de Computadores (RISC-V, ARM)
+Programación de Redes y Protocolos
+Sistemas Concurrentes y Paralelos
+Desarrollo en FPGA
 ```
 
 ---
 
-### 🌐 Conecta Conmigo
+### Conecta Conmigo
 
 <p align="left">
 <a href="https://linkedin.com/in/angel-mc" target="_blank">
