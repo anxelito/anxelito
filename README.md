@@ -92,9 +92,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anxelito&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?anxelito=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -129,3 +127,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anxelito&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
