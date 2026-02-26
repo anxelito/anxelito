@@ -74,7 +74,6 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxelito&theme=aura_dark" alt="Estadísticas de GitHub" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxelito&theme=aura_dark" alt="Lenguajes Más Usados" width="400" />
 </p>
 
 <p align="center">
@@ -102,5 +101,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anxelito&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas al Perfil" />
 </p>
+
 
 
